@@ -6,8 +6,7 @@ game.
 
 
 Important Note:
--The original Battleships game was as a project for Chris Dovolis' Introduction to Algorithm's 
-and Data Structures class at the University of Minnesota. The project required the creation of 
+The original Battleships game was created as a university project. The project required the creation of 
 Board, Boat, Cell, Game, and BattleboatGUI classes. Methods and objects contained within these 
 classes are incorporated within the Computer.java file. However, because solutions to the project 
 cannot be posted online, only the Computer.java class, which was not included in the project's 
